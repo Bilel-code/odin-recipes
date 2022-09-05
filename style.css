@@ -1,0 +1,42 @@
+body{
+    background-color: beige;
+}
+.title{
+    text-decoration: underline;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif ;
+    color: rgb(91, 88, 88);
+}
+
+.links {
+    font-size: 30px;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.links a{
+    text-decoration: none;
+    color: red;
+}
+.links a:hover {
+    background-color: white;
+    text-decoration: underline;
+    opacity: 0.5;
+}
+
+.links a:active {
+    background-color: blue;
+}
+
+.s-title{
+    text-decoration: underline;
+    font-size: 25px;
+    font-family: 'Times New Roman', "Times", serif;
+background-color: aliceblue;
+text-align: center;
+opacity: 0.5;
+}
+
+img {
+    width:300px;
+}
